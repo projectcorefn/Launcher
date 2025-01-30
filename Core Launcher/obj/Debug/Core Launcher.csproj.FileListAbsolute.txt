@@ -1,0 +1,34 @@
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\Core Launcher.exe.config
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\Core Launcher.exe
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\Core Launcher.pdb
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\CuoreUI.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\EmbedIO.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\INIFileParser.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\Swan.Lite.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\System.ValueTuple.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\EmbedIO.pdb
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\EmbedIO.xml
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\INIFileParser.xml
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\Swan.Lite.xml
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\System.ValueTuple.xml
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\Interop.WMPLib.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core Launcher.csproj.AssemblyReference.cache
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Interop.WMPLib.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core Launcher.csproj.ResolveComReference.cache
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core_Launcher.Form1.resources
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core_Launcher.Forms.Login.resources
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core_Launcher.Pages.homePage.resources
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core_Launcher.Pages.settingsPage.resources
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core_Launcher.Properties.Resources.resources
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core Launcher.csproj.GenerateResource.cache
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core Launcher.csproj.CoreCompileInputs.cache
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core Lau.BEBA7EC9.Up2Date
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core Launcher.exe
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core Launcher.pdb
+C:\Users\PinkW\source\repos\Core Launcher\Core Launcher\obj\Debug\Core_Launcher.Pages.aboutPage.resources
