@@ -44,9 +44,6 @@ namespace Core_Launcher.Forms
                         return;
                     }
 
-                    string url = $"http://vps.corefn.xyz:3551/api/accountcheck?email={Uri.EscapeDataString(email)}&password={Uri.EscapeDataString(password)}";
-                    Console.WriteLine($"Attempting to access URL: {url}");
-
                     HttpResponseMessage response = client.GetAsync(url).Result;
 
                     Console.WriteLine($"Response Status Code: {response.StatusCode}");
@@ -103,7 +100,7 @@ namespace Core_Launcher.Forms
 
         private void cuiButton2_Click(object sender, EventArgs e) //opens the create acc website
         {
-            Process.Start(new ProcessStartInfo("http://vps.corefn.xyz/") { UseShellExecute = true });
+            Process.Start(new ProcessStartInfo("/") { UseShellExecute = true });
         }
 
         private void cuiLabel4_Click(object sender, EventArgs e) //logges in with saved info
