@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|c:\\users\\pinkw\\source\\repos\\core launcher\\launcher\\core launcher\\services\\updateini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|solutionrelative:core launcher\\services\\updateini.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|c:\\users\\pinkw\\source\\repos\\core launcher\\launcher\\core launcher\\services\\launch\\psbasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|solutionrelative:core launcher\\services\\launch\\psbasics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|c:\\users\\pinkw\\source\\repos\\core launcher\\launcher\\core launcher\\services\\launch\\freeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|solutionrelative:core launcher\\services\\launch\\freeze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|c:\\users\\pinkw\\source\\repos\\core launcher\\launcher\\core launcher\\services\\launch\\fakeac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|solutionrelative:core launcher\\services\\launch\\fakeac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|c:\\users\\pinkw\\source\\repos\\core launcher\\launcher\\core launcher\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|solutionrelative:core launcher\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|c:\\users\\pinkw\\source\\repos\\core launcher\\launcher\\core launcher\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7F2F8778-C530-4177-A04B-22787174E833}|Core Launcher\\Core Launcher.csproj|solutionrelative:core launcher\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateINI.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Services\\UpdateINI.cs",
+              "RelativeDocumentMoniker": "Core Launcher\\Services\\UpdateINI.cs",
+              "ToolTip": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Services\\UpdateINI.cs",
+              "RelativeToolTip": "Core Launcher\\Services\\UpdateINI.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:57:42.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PSBasics.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Services\\Launch\\PSBasics.cs",
+              "RelativeDocumentMoniker": "Core Launcher\\Services\\Launch\\PSBasics.cs",
+              "ToolTip": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Services\\Launch\\PSBasics.cs",
+              "RelativeToolTip": "Core Launcher\\Services\\Launch\\PSBasics.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:57:39.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Freeze.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Services\\Launch\\Freeze.cs",
+              "RelativeDocumentMoniker": "Core Launcher\\Services\\Launch\\Freeze.cs",
+              "ToolTip": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Services\\Launch\\Freeze.cs",
+              "RelativeToolTip": "Core Launcher\\Services\\Launch\\Freeze.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:57:37.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FakeAC.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Services\\Launch\\FakeAC.cs",
+              "RelativeDocumentMoniker": "Core Launcher\\Services\\Launch\\FakeAC.cs",
+              "ToolTip": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Services\\Launch\\FakeAC.cs",
+              "RelativeToolTip": "Core Launcher\\Services\\Launch\\FakeAC.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:57:34.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "homePage.cs",
+              "DocumentMoniker": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Pages\\homePage.cs",
+              "RelativeDocumentMoniker": "Core Launcher\\Pages\\homePage.cs",
+              "ToolTip": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Pages\\homePage.cs",
+              "RelativeToolTip": "Core Launcher\\Pages\\homePage.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAApwDIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:56:51.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "homePage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Pages\\homePage.cs",
+              "RelativeDocumentMoniker": "Core Launcher\\Pages\\homePage.cs",
+              "ToolTip": "C:\\Users\\PinkW\\source\\repos\\Core Launcher\\Launcher\\Core Launcher\\Pages\\homePage.cs [Design]",
+              "RelativeToolTip": "Core Launcher\\Pages\\homePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T23:56:50.051Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
